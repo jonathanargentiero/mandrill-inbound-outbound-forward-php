@@ -38,7 +38,7 @@ Edit these configuration files:
 1. Add a valid Mandrill API key in ```config/settings.php```
 2. Configure the receivers email addresses in ```config/receivers.php```
 
-*NOTE: A catch-all address is always required and defined with ```*```. You can still use the same configuration file for multiple domains registered on Mandrill (but the catch-all will be the common for all domains).*
+*NOTE: A catch-all address is always required and defined with ``` * ```. You can still use the same configuration file for multiple domains registered on Mandrill (but the catch-all will be the common for all domains).*
 
 ### Run
 
