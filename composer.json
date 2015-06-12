@@ -1,0 +1,22 @@
+{
+	"name": "jonathanargentiero/mandrill-inbound-outbound-forward-php",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "A PHP client library for Mandrill's Inbound to Outbound Forward",
+    "keywords": ["mandrill","php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Argentiero",
+            "homepage": "https://github.com/jonathanargentiero/"
+        },
+        {
+            "name": "Mathias Beugnon",
+            "homepage": "https://github.com/oomathias"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "mandrill/mandrill": "1.0.54"
+    }
+}
